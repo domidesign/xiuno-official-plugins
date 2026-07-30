@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "updated_at": "2026-07-31T01:51:33+08:00",
+    "updated_at": "2026-07-31T01:53:34+08:00",
     "plugins": [
         {
             "dir": "xnx_read",
@@ -9,10 +9,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_read.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_read.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_read/xnx_read-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_read/xnx_read-1.0.0.zip"
         },
         {
             "dir": "xnx_attach_access",
@@ -21,7 +21,7 @@
             "version": "1.2.1",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_attach_access.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_attach_access.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-38.htm"
@@ -33,7 +33,7 @@
             "version": "1.1.1",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_hidden.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_hidden.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-39.htm"
@@ -45,7 +45,7 @@
             "version": "1.3.1",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_ad_selfbuy.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_ad_selfbuy.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-40.htm"
@@ -57,7 +57,7 @@
             "version": "1.0.3",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_checkin.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_checkin.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-41.htm"
@@ -69,7 +69,7 @@
             "version": "1.1.1",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_tag.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_tag.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-42.htm"
@@ -81,10 +81,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_webp.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_webp.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_webp/xnx_webp-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_webp/xnx_webp-1.0.0.zip"
         },
         {
             "dir": "xnx_ai_reply",
@@ -93,7 +93,7 @@
             "version": "1.0.2",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_ai_reply.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_ai_reply.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-46.htm"
@@ -105,7 +105,7 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "段先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/navgcn_attach_prefix.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_attach_prefix.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-47.htm"
@@ -117,10 +117,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_demo_data.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_demo_data.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_demo_data/xnx_demo_data-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_demo_data/xnx_demo_data-1.0.0.zip"
         },
         {
             "dir": "xnx_duel",
@@ -129,7 +129,7 @@
             "version": "1.4.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_duel.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_duel.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-49.htm"
@@ -141,7 +141,7 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "段先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/navgcn_transfer.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_transfer.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-50.htm"
@@ -153,7 +153,7 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_edgeone.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_edgeone.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-51.htm"
@@ -165,7 +165,7 @@
             "version": "2.5.6",
             "bbs_version": "1.1",
             "author": "jinqike1026",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/jxy_wallet_center.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/jxy_wallet_center.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-52.htm"
@@ -177,10 +177,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_fcomment.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_fcomment.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_fcomment/xnx_fcomment-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_fcomment/xnx_fcomment-1.0.0.zip"
         },
         {
             "dir": "xnx_fusers",
@@ -189,10 +189,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_fusers.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_fusers.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_fusers/xnx_fusers-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_fusers/xnx_fusers-1.0.0.zip"
         },
         {
             "dir": "navgcn_exchange",
@@ -201,7 +201,7 @@
             "version": "1.1.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/navgcn_exchange.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_exchange.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-55.htm"
@@ -213,7 +213,7 @@
             "version": "1.2.1",
             "bbs_version": "1.1",
             "author": "jinqike1026",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/jxy_payment_center.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/jxy_payment_center.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-56.htm"
@@ -225,7 +225,7 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_fields.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_fields.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-57.htm"
@@ -237,7 +237,7 @@
             "version": "1.1.1",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_friendlink.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_friendlink.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-58.htm"
@@ -249,10 +249,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_icon.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_icon.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_icon/xnx_icon-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_icon/xnx_icon-1.0.0.zip"
         },
         {
             "dir": "xnx_invite",
@@ -261,7 +261,7 @@
             "version": "1.0.1",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_invite.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_invite.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-60.htm"
@@ -273,7 +273,7 @@
             "version": "1.0.6",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_medal.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_medal.png",
             "type": "plugin",
             "free": false,
             "homepage": "https://xiuno.xcxgy.cn/appcenter-61.htm"
@@ -285,10 +285,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_maintenance.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_maintenance.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_maintenance/xnx_maintenance-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_maintenance/xnx_maintenance-1.0.0.zip"
         },
         {
             "dir": "xnx_custom_groups",
@@ -297,10 +297,10 @@
             "version": "1.0.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_custom_groups.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_custom_groups.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_custom_groups/xnx_custom_groups-1.0.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_custom_groups/xnx_custom_groups-1.0.0.zip"
         },
         {
             "dir": "xnx_oauth",
@@ -309,10 +309,10 @@
             "version": "1.1.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/xnx_oauth.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_oauth.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/xnx_oauth/xnx_oauth-1.1.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/xnx_oauth/xnx_oauth-1.1.0.zip"
         },
         {
             "dir": "navgcn_board_tag",
@@ -321,10 +321,10 @@
             "version": "1.2.0",
             "bbs_version": "1.1",
             "author": "贰先生",
-            "icon_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/icons/navgcn_board_tag.png",
+            "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_board_tag.png",
             "type": "plugin",
             "free": true,
-            "zip_url": "https://cdn.jsdelivr.net/gh/xiunox/xiuno-official-plugins@main/free/navgcn_board_tag/navgcn_board_tag-1.2.0.zip"
+            "zip_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/free/navgcn_board_tag/navgcn_board_tag-1.2.0.zip"
         }
     ]
 }
