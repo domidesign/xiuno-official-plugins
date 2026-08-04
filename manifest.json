@@ -10,12 +10,12 @@
             "bbs_version": "1.1",
             "author": "oulin",
             "author_uid": 12,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-12.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-12.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/oulin_credit_mall.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-54.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-54.htm"
+            "detail_url": "https://xiunox.org/appcenter-54.htm",
+            "homepage": "https://xiunox.org/appcenter-54.htm"
         },
         {
             "dir": "laity_tip",
@@ -25,12 +25,12 @@
             "bbs_version": "1.1",
             "author": "Laity",
             "author_uid": 19,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-19.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-19.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/laity_tip.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-53.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-53.htm"
+            "detail_url": "https://xiunox.org/appcenter-53.htm",
+            "homepage": "https://xiunox.org/appcenter-53.htm"
         },
         {
             "dir": "navgcn_lottery",
@@ -40,12 +40,12 @@
             "bbs_version": "1.1",
             "author": "cywxmz",
             "author_uid": 2,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-2.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-2.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_lottery.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-52.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-52.htm"
+            "detail_url": "https://xiunox.org/appcenter-52.htm",
+            "homepage": "https://xiunox.org/appcenter-52.htm"
         },
         {
             "dir": "navgcn_replyevent",
@@ -55,12 +55,12 @@
             "bbs_version": "1.1",
             "author": "cywxmz",
             "author_uid": 2,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-2.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-2.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_replyevent.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-51.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-51.htm"
+            "detail_url": "https://xiunox.org/appcenter-51.htm",
+            "homepage": "https://xiunox.org/appcenter-51.htm"
         },
         {
             "dir": "navgcn_roadmap",
@@ -70,12 +70,12 @@
             "bbs_version": "1.1",
             "author": "cywxmz",
             "author_uid": 2,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-2.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-2.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_roadmap.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-50.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-50.htm"
+            "detail_url": "https://xiunox.org/appcenter-50.htm",
+            "homepage": "https://xiunox.org/appcenter-50.htm"
         },
         {
             "dir": "navgcn_survey",
@@ -85,12 +85,12 @@
             "bbs_version": "1.1",
             "author": "cywxmz",
             "author_uid": 2,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-2.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-2.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_survey.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-49.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-49.htm"
+            "detail_url": "https://xiunox.org/appcenter-49.htm",
+            "homepage": "https://xiunox.org/appcenter-49.htm"
         },
         {
             "dir": "navgcn_auction",
@@ -100,12 +100,12 @@
             "bbs_version": "1.1",
             "author": "cywxmz",
             "author_uid": 2,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-2.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-2.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/navgcn_auction.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-48.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-48.htm"
+            "detail_url": "https://xiunox.org/appcenter-48.htm",
+            "homepage": "https://xiunox.org/appcenter-48.htm"
         },
         {
             "dir": "xnx_webp",
@@ -115,12 +115,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_webp.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-47.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-47.htm"
+            "detail_url": "https://xiunox.org/appcenter-47.htm",
+            "homepage": "https://xiunox.org/appcenter-47.htm"
         },
         {
             "dir": "xnx_tag",
@@ -130,12 +130,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_tag.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-44.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-44.htm"
+            "detail_url": "https://xiunox.org/appcenter-44.htm",
+            "homepage": "https://xiunox.org/appcenter-44.htm"
         },
         {
             "dir": "xnx_status",
@@ -145,12 +145,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_status.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-43.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-43.htm"
+            "detail_url": "https://xiunox.org/appcenter-43.htm",
+            "homepage": "https://xiunox.org/appcenter-43.htm"
         },
         {
             "dir": "xnx_site_images",
@@ -160,12 +160,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_site_images.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-42.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-42.htm"
+            "detail_url": "https://xiunox.org/appcenter-42.htm",
+            "homepage": "https://xiunox.org/appcenter-42.htm"
         },
         {
             "dir": "xnx_reward",
@@ -175,12 +175,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_reward.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-40.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-40.htm"
+            "detail_url": "https://xiunox.org/appcenter-40.htm",
+            "homepage": "https://xiunox.org/appcenter-40.htm"
         },
         {
             "dir": "xnx_report",
@@ -190,12 +190,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_report.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-39.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-39.htm"
+            "detail_url": "https://xiunox.org/appcenter-39.htm",
+            "homepage": "https://xiunox.org/appcenter-39.htm"
         },
         {
             "dir": "xnx_related",
@@ -205,12 +205,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_related.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-38.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-38.htm"
+            "detail_url": "https://xiunox.org/appcenter-38.htm",
+            "homepage": "https://xiunox.org/appcenter-38.htm"
         },
         {
             "dir": "xnx_register_notice",
@@ -220,12 +220,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_register_notice.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-37.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-37.htm"
+            "detail_url": "https://xiunox.org/appcenter-37.htm",
+            "homepage": "https://xiunox.org/appcenter-37.htm"
         },
         {
             "dir": "xnx_read",
@@ -235,12 +235,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_read.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-36.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-36.htm"
+            "detail_url": "https://xiunox.org/appcenter-36.htm",
+            "homepage": "https://xiunox.org/appcenter-36.htm"
         },
         {
             "dir": "xnx_pwa",
@@ -250,12 +250,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_pwa.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-34.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-34.htm"
+            "detail_url": "https://xiunox.org/appcenter-34.htm",
+            "homepage": "https://xiunox.org/appcenter-34.htm"
         },
         {
             "dir": "xnx_private_reply",
@@ -265,12 +265,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_private_reply.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-33.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-33.htm"
+            "detail_url": "https://xiunox.org/appcenter-33.htm",
+            "homepage": "https://xiunox.org/appcenter-33.htm"
         },
         {
             "dir": "xnx_poll",
@@ -280,12 +280,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_poll.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-32.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-32.htm"
+            "detail_url": "https://xiunox.org/appcenter-32.htm",
+            "homepage": "https://xiunox.org/appcenter-32.htm"
         },
         {
             "dir": "xnx_oauth",
@@ -295,12 +295,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_oauth.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-31.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-31.htm"
+            "detail_url": "https://xiunox.org/appcenter-31.htm",
+            "homepage": "https://xiunox.org/appcenter-31.htm"
         },
         {
             "dir": "xnx_need_avatar",
@@ -310,12 +310,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_need_avatar.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-30.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-30.htm"
+            "detail_url": "https://xiunox.org/appcenter-30.htm",
+            "homepage": "https://xiunox.org/appcenter-30.htm"
         },
         {
             "dir": "xnx_medal",
@@ -325,12 +325,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_medal.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-29.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-29.htm"
+            "detail_url": "https://xiunox.org/appcenter-29.htm",
+            "homepage": "https://xiunox.org/appcenter-29.htm"
         },
         {
             "dir": "xnx_maintenance",
@@ -340,12 +340,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_maintenance.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-28.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-28.htm"
+            "detail_url": "https://xiunox.org/appcenter-28.htm",
+            "homepage": "https://xiunox.org/appcenter-28.htm"
         },
         {
             "dir": "xnx_lottery",
@@ -355,12 +355,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_lottery.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-27.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-27.htm"
+            "detail_url": "https://xiunox.org/appcenter-27.htm",
+            "homepage": "https://xiunox.org/appcenter-27.htm"
         },
         {
             "dir": "xnx_landing",
@@ -370,12 +370,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_landing.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-25.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-25.htm"
+            "detail_url": "https://xiunox.org/appcenter-25.htm",
+            "homepage": "https://xiunox.org/appcenter-25.htm"
         },
         {
             "dir": "xnx_invite",
@@ -385,12 +385,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_invite.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-24.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-24.htm"
+            "detail_url": "https://xiunox.org/appcenter-24.htm",
+            "homepage": "https://xiunox.org/appcenter-24.htm"
         },
         {
             "dir": "xnx_icon",
@@ -400,12 +400,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_icon.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-23.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-23.htm"
+            "detail_url": "https://xiunox.org/appcenter-23.htm",
+            "homepage": "https://xiunox.org/appcenter-23.htm"
         },
         {
             "dir": "xnx_gitee_projects",
@@ -415,12 +415,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_gitee_projects.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-21.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-21.htm"
+            "detail_url": "https://xiunox.org/appcenter-21.htm",
+            "homepage": "https://xiunox.org/appcenter-21.htm"
         },
         {
             "dir": "xnx_gift",
@@ -430,12 +430,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_gift.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-20.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-20.htm"
+            "detail_url": "https://xiunox.org/appcenter-20.htm",
+            "homepage": "https://xiunox.org/appcenter-20.htm"
         },
         {
             "dir": "xnx_fusers",
@@ -445,12 +445,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_fusers.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-19.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-19.htm"
+            "detail_url": "https://xiunox.org/appcenter-19.htm",
+            "homepage": "https://xiunox.org/appcenter-19.htm"
         },
         {
             "dir": "xnx_friendlink",
@@ -460,12 +460,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_friendlink.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-18.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-18.htm"
+            "detail_url": "https://xiunox.org/appcenter-18.htm",
+            "homepage": "https://xiunox.org/appcenter-18.htm"
         },
         {
             "dir": "xnx_fields",
@@ -475,12 +475,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_fields.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-16.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-16.htm"
+            "detail_url": "https://xiunox.org/appcenter-16.htm",
+            "homepage": "https://xiunox.org/appcenter-16.htm"
         },
         {
             "dir": "xnx_fcomment",
@@ -490,12 +490,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_fcomment.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-14.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-14.htm"
+            "detail_url": "https://xiunox.org/appcenter-14.htm",
+            "homepage": "https://xiunox.org/appcenter-14.htm"
         },
         {
             "dir": "xnx_edgeone",
@@ -505,12 +505,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_edgeone.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-13.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-13.htm"
+            "detail_url": "https://xiunox.org/appcenter-13.htm",
+            "homepage": "https://xiunox.org/appcenter-13.htm"
         },
         {
             "dir": "xnx_duel",
@@ -520,12 +520,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_duel.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-12.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-12.htm"
+            "detail_url": "https://xiunox.org/appcenter-12.htm",
+            "homepage": "https://xiunox.org/appcenter-12.htm"
         },
         {
             "dir": "xnx_demo_data",
@@ -535,12 +535,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_demo_data.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-10.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-10.htm"
+            "detail_url": "https://xiunox.org/appcenter-10.htm",
+            "homepage": "https://xiunox.org/appcenter-10.htm"
         },
         {
             "dir": "xnx_custom_groups",
@@ -550,12 +550,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_custom_groups.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-9.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-9.htm"
+            "detail_url": "https://xiunox.org/appcenter-9.htm",
+            "homepage": "https://xiunox.org/appcenter-9.htm"
         },
         {
             "dir": "xnx_checkin",
@@ -565,12 +565,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_checkin.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-7.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-7.htm"
+            "detail_url": "https://xiunox.org/appcenter-7.htm",
+            "homepage": "https://xiunox.org/appcenter-7.htm"
         },
         {
             "dir": "xnx_avatar_frame",
@@ -580,12 +580,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_avatar_frame.png",
             "type": "plugin",
             "free": true,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-6.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-6.htm"
+            "detail_url": "https://xiunox.org/appcenter-6.htm",
+            "homepage": "https://xiunox.org/appcenter-6.htm"
         },
         {
             "dir": "xnx_attach_access",
@@ -595,12 +595,12 @@
             "bbs_version": "1.1",
             "author": "贰先生",
             "author_uid": 1,
-            "author_homepage": "https://xiuno.xcxgy.cn/appcenter-developer-1.htm",
+            "author_homepage": "https://xiunox.org/appcenter-developer-1.htm",
             "icon_url": "https://cdn.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/icons/xnx_attach_access.png",
             "type": "plugin",
             "free": false,
-            "detail_url": "https://xiuno.xcxgy.cn/appcenter-4.htm",
-            "homepage": "https://xiuno.xcxgy.cn/appcenter-4.htm"
+            "detail_url": "https://xiunox.org/appcenter-4.htm",
+            "homepage": "https://xiunox.org/appcenter-4.htm"
         }
     ]
 }
