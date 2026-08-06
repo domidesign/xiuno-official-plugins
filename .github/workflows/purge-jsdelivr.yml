@@ -1,0 +1,61 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Purge changed files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.event.after }}"
+
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            FILES=$(git ls-files)
+          else
+            FILES=$(git diff --name-only "$BEFORE" "$AFTER")
+          fi
+
+          FILES=$(echo "$FILES" | grep -vE '(^\.trae/|^\.github/|\.DS_Store$)' || true)
+
+          if [ -z "$FILES" ]; then
+            echo "No CDN-related files changed, skip purge."
+            exit 0
+          fi
+
+          PATHS=$(echo "$FILES" | paste -sd ',' -)
+          echo "Purging: $PATHS"
+          echo "Changed files:"
+          echo "$FILES" | sed 's/^/  /'
+
+          for i in 1 2 3; do
+            RESP=$(curl -s "https://purge.jsdelivr.net/gh/domidesign/xiuno-official-plugins@main/$PATHS" || true)
+            echo "Response: $RESP"
+
+            if echo "$RESP" | jq -e '
+              .status == "finished" and
+              ([.paths[] | .throttled == false] | all) and
+              ([.paths[] | .providers.CF == true] | all) and
+              ([.paths[] | .providers.FY == true] | all)
+            ' > /dev/null 2>&1; then
+              echo "Purge success."
+              exit 0
+            fi
+
+            echo "Purge failed or throttled, retry $i/3..."
+            sleep 5
+          done
+
+          echo "::error::jsDelivr purge failed after 3 attempts"
+          exit 1
